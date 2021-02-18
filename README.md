@@ -1,6 +1,8 @@
 # combrise-between-all-unsupervised-machine-learning-algorithms-for-model-classification.
 
-# In this project we will combrise between all unsupervised machine learning algorithms for model classification. We will go through 6 tasks to implement our project: 
+# In this project we will combrise between all unsupervised machine learning algorithms for model classification.
+
+##We will go through 6 tasks to implement our project: 
 
 Task 1: Import the important library and exploring the dataset.  
 
